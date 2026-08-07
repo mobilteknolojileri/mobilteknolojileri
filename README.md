@@ -50,7 +50,7 @@ Turkish-first, culturally-aware password strength kit for React Native. Combines
 
 ### Client Projects
 **İngilizceciyiz** ([iOS](https://apps.apple.com/tr/app/ingilizceciyiz/id6459478322) / [Android](https://play.google.com/store/apps/details?id=com.ingilizceciyiz.ingilizceciyiz&hl=tr)) — Education platform modernization serving 16K+ users.
-React Native · Expo SDK 53 · Node.js
+React Native · Expo SDK 55 · Node.js
 
 ### Indie Products
 [**Kafadar**](https://play.google.com/store/apps/details?id=com.schwerttr.kafadar) — Friendship quiz app with real-time sharing and score comparison.
