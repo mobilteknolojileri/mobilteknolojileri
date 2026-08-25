@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub><b>30+</b> projects delivered &nbsp;·&nbsp; <b>23</b> five-star reviews &nbsp;·&nbsp; <b>16K+</b> users on client apps</sub>
+  <sub><b>30+</b> projects delivered &nbsp;·&nbsp; <b>23</b> five-star reviews &nbsp;·&nbsp; <b>23K+</b> downloads on client apps</sub>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Turkish is the running theme — most password and dictionary libraries treat it
 
 | Product | What it is | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **İngilizceciyiz** <sub>client</sub> | Education platform modernization, 16K+ users. | React Native&nbsp;· Expo 55&nbsp;· Supabase | [App Store](https://apps.apple.com/tr/app/ingilizceciyiz/id6459478322)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.ingilizceciyiz.ingilizceciyiz&hl=tr) |
+| **İngilizceciyiz** <sub>client</sub> | Education platform modernization, 23K+ downloads. | React Native&nbsp;· Expo 55&nbsp;· Supabase | [App Store](https://apps.apple.com/tr/app/ingilizceciyiz/id6459478322)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.ingilizceciyiz.ingilizceciyiz&hl=tr) |
 | **Get Yo** <sub>client</sub> | Frozen yogurt shop app — daily flavor board, nutrition and allergen data, favorite voting. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [App Store](https://apps.apple.com/us/app/get-yo/id6753984684)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.getyocafe.app&hl=tr) |
 | **Kafadar** | Friendship quiz app with real-time sharing and score comparison. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.kafadar) |
 | **QuSafe** | AES-256 encrypted vault for passwords, notes and media. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.qusafe) |
