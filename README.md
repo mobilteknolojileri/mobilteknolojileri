@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://goldsword.dev"><img alt="Portfolio" src="https://img.shields.io/badge/goldsword.dev-portfolio-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=astro&logoColor=BC52EE" /></a>&nbsp;
+  <a href="https://github.com/mobilteknolojileri/case-studies"><img alt="Case studies" src="https://img.shields.io/badge/case_studies-read-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=markdown&logoColor=e6edf3" /></a>&nbsp;
   <a href="https://www.npmjs.com/package/react-native-password-intelligence"><img alt="npm" src="https://img.shields.io/npm/v/react-native-password-intelligence?style=for-the-badge&label=npm&labelColor=1a1a2e&color=1a1a2e&logo=npm&logoColor=CB3837" /></a>&nbsp;
   <a href="https://bionluk.com/goldsword"><img alt="Bionluk rating" src="https://img.shields.io/badge/Bionluk-5.0_%E2%98%85_%C2%B7_23_reviews-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEUAAADxN2DyLGPwOFvwOFz9XmD9Bgb%2BQFr%2FAP%2BqVVX7QFf%2F%2FwC%2FP3%2F%2F%2F%2F9%2FAH%2FxOVwAAAAAAAAAAAAAAAAAAADH267PAAAAEHRSTlMA9hhjngcB%2BQEDQwEEAQL8qutlLgAAAVVJREFUeNplkweSAjAIRamJbsv9b%2BuHkOLKOA4mT%2FiUEMFkGt3WqPmXS3piI8zCX%2FYg5TF69wQG%2FMFGvu8dh73j06efpm%2BA9TxMQD%2BB1goYCXO6QnIUCifQB9gCWC6NK0I3yBWeGv0CBHmhcFiEnRpRhLy1QdRUH0TP0sjq%2FnT3itJ8gZ4dySJW9H0t0u4iEBNBSyp%2BRfPhNymAB8OQih7NZ1T4IGYRY8zvmauy9swr478JWXnd2qaPIbCtM%2FYNHAwdWYOI9i7aoHuqAaBqO8JPAsy%2FkKMrwlZmtCfRmjxP0%2F0TIL96KmdHcBgElB9ADjA1BiKEDd6bcy1RAkAEaStb1C5VO%2Fo0B8AxIF1V%2BilCEoBhdjqOxmvRCwihM0Dupn4CNdOq51p0XdelEAnuRf%2FDwzx%2FDy3xaqsItlwp15NknoTGjJmvteX%2BWRj2MVcWT0XThL7pBTpKGPT5hLa0AAAAAElFTkSuQmCC" /></a>&nbsp;
   <a href="mailto:mobilteknolojileri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/hire_me-email-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=gmail&logoColor=EA4335" /></a>
@@ -34,7 +35,7 @@ Turkish is the running theme — most password and dictionary libraries treat it
 | :--- | :--- | :--- |
 | **[zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn)**<br /><sub>contributor</sub> | Turkish language pack — 30K frequency words, 10K Wikipedia entries. | [PR #315 merged](https://github.com/zxcvbn-ts/zxcvbn/pull/315) |
 | **[faker-js/faker](https://github.com/faker-js/faker)**<br /><sub>contributor</sub> | Turkish surname dataset extended from 198 to 370 entries. | [PR #3839 merged](https://github.com/faker-js/faker/pull/3839) |
-| **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | NIST SP 800-63B entropy estimation with regional threat intelligence. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
+| **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | Wraps zxcvbn-ts with a Turkish threat layer — regional wordlists and crack-time feedback. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
 | **[xiaomi-bootloader-unlocker](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker)**<br /><sub>author</sub> | NTP-synced automation that lands inside Xiaomi's quota window. | [repo](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker) |
 
 ## Core Stack
@@ -53,10 +54,10 @@ Turkish is the running theme — most password and dictionary libraries treat it
 
 | Product | What it is | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **İngilizceciyiz** <sub>client</sub> | Education platform modernization, 23K+ downloads. | React Native&nbsp;· Expo 55&nbsp;· Supabase | [App Store](https://apps.apple.com/tr/app/ingilizceciyiz/id6459478322)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.ingilizceciyiz.ingilizceciyiz&hl=tr) |
-| **Get Yo** <sub>client</sub> | Frozen yogurt shop app — daily flavor board, nutrition and allergen data, favorite voting. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [App Store](https://apps.apple.com/us/app/get-yo/id6753984684)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.getyocafe.app&hl=tr) |
-| **Kafadar** | Friendship quiz app with real-time sharing and score comparison. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.kafadar) |
-| **QuSafe** | AES-256 encrypted vault for passwords, notes and media. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.qusafe) |
+| **İngilizceciyiz** <sub>client</sub> | Education platform modernization, 23K+ downloads. | React Native&nbsp;· Expo 55&nbsp;· Supabase | [App Store](https://apps.apple.com/tr/app/ingilizceciyiz/id6459478322)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.ingilizceciyiz.ingilizceciyiz&hl=tr)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/ingilizceciyiz.md) |
+| **Get Yo** <sub>client</sub> | Frozen yogurt shop app — daily flavor board, nutrition and allergen data, favorite voting. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [App Store](https://apps.apple.com/us/app/get-yo/id6753984684)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.getyocafe.app&hl=tr)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/getyo.md) |
+| **Kafadar** | Friendship quiz app with shareable deep links and score comparison. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.kafadar)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/kafadar.md) |
+| **QuSafe** | AES-256-GCM encrypted vault for passwords and notes. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.qusafe)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/qusafe.md) |
 | **Legends of Aestera** | 2D platformer — multi-character system, boss fights. | Unity&nbsp;· C# | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.aestera) |
 
 ## Background
@@ -67,6 +68,10 @@ Turkish is the running theme — most password and dictionary libraries treat it
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mobilteknolojileri&theme=github-dark-blue&hide_border=true&background=0D1117&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&card_width=495" />
+</p>
+
+<p align="center">
+  <sub>Client Supabase projects, pinged daily&nbsp;· <a href="https://healthchecks.io/badge/53d4cd14-b325-4402-9ebb-591752/XjyxyHT5-2.svg"><img alt="keepalive status" src="https://healthchecks.io/badge/53d4cd14-b325-4402-9ebb-591752/XjyxyHT5-2.svg" /></a></sub>
 </p>
 
 <p align="center">
