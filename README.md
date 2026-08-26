@@ -47,7 +47,7 @@ Turkish is the running theme across the libraries — most password and dictiona
 | Web | Next.js&nbsp;· Astro&nbsp;· React&nbsp;· TypeScript&nbsp;· Tailwind |
 | Backend | Node.js&nbsp;· Express&nbsp;· FastAPI&nbsp;· Socket.IO |
 | Data | PostgreSQL&nbsp;· Supabase&nbsp;· Firebase&nbsp;· MongoDB&nbsp;· Cloudflare D1 |
-| AI / ML | LLM integration&nbsp;· YOLOv8&nbsp;· TensorFlow Lite |
+| AI / ML | YOLOv8&nbsp;· ONNX&nbsp;· TensorFlow Lite |
 | Games | Unity (C#)&nbsp;· Godot (GDScript) |
 | Infra | Docker&nbsp;· GitHub Actions&nbsp;· Vercel&nbsp;· Cloudflare |
 
