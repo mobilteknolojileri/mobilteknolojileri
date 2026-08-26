@@ -35,7 +35,7 @@ Turkish is the running theme — most password and dictionary libraries treat it
 | :--- | :--- | :--- |
 | **[zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn)**<br /><sub>contributor</sub> | Turkish language pack — 30K frequency words, 10K Wikipedia entries. | [PR #315 merged](https://github.com/zxcvbn-ts/zxcvbn/pull/315) |
 | **[faker-js/faker](https://github.com/faker-js/faker)**<br /><sub>contributor</sub> | Turkish surname dataset extended from 198 to 370 entries. | [PR #3839 merged](https://github.com/faker-js/faker/pull/3839) |
-| **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | Wraps zxcvbn-ts with a Turkish threat layer — regional wordlists and crack-time feedback. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
+| **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | Wraps zxcvbn-ts with a Turkish threat layer — regional wordlists and crack-time feedback. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [RN Directory](https://reactnative.directory/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
 | **[xiaomi-bootloader-unlocker](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker)**<br /><sub>author</sub> | NTP-synced automation that lands inside Xiaomi's quota window. | [repo](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker) |
 
 ## Core Stack
