@@ -46,7 +46,7 @@ Turkish is the running theme across the libraries — most password and dictiona
 | Mobile | React Native&nbsp;· Expo&nbsp;· Flutter&nbsp;· Android (Kotlin/Java) |
 | Web | Next.js&nbsp;· Astro&nbsp;· React&nbsp;· TypeScript&nbsp;· Tailwind |
 | Backend | Node.js&nbsp;· Express&nbsp;· FastAPI&nbsp;· Socket.IO |
-| Data | PostgreSQL&nbsp;· Supabase&nbsp;· Firebase&nbsp;· MongoDB&nbsp;· Cloudflare D1 |
+| Data | PostgreSQL&nbsp;· Supabase&nbsp;· MongoDB&nbsp;· Cloudflare D1 |
 | AI / ML | YOLOv8&nbsp;· ONNX&nbsp;· TensorFlow Lite |
 | Games | Unity (C#)&nbsp;· Godot (GDScript) |
 | Infra | Docker&nbsp;· GitHub Actions&nbsp;· Vercel&nbsp;· Cloudflare |
@@ -64,7 +64,7 @@ Turkish is the running theme across the libraries — most password and dictiona
 ## Background
 
 - **Trakya University** — Mobile Technologies, 2023–2025&nbsp;· GPA 3.79 / 4.00
-- **SecHard** — Software engineering intern, 16 weeks&nbsp;· Docker microservices, Node.js APIs, Angular dashboards
+- **SecHard** — Software engineering intern, 16 weeks&nbsp;· Docker microservices, Node.js APIs on MongoDB, Angular dashboards
 - **Published research** — *Willow Quantum Chip and Post-Quantum Security*, 12th International European Congress on Advanced Studies in Basic Sciences, Tirana, May 2025&nbsp;· [Abstract](https://www.iksadeurope.org/_files/ugd/614b1f_34785a6fae884c798ef81de7fd9dd7a4.pdf)&nbsp;· [Proceedings](https://www.iksadeurope.org/_files/ugd/614b1f_fe0a0192d21b4ec9b5f199e6bdad6c96.pdf)
 
 <p align="center">
