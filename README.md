@@ -29,13 +29,14 @@ I build products end-to-end — schema, API, app, store listing. React Native an
 
 ## Open Source
 
-Turkish is the running theme — most password and dictionary libraries treat it as an afterthought.
+Turkish is the running theme across the libraries — most password and dictionary tools treat it as an afterthought.
 
 | Project | What I shipped | Links |
 | :--- | :--- | :--- |
 | **[zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn)**<br /><sub>contributor</sub> | Turkish language pack — 30K frequency words, 10K Wikipedia entries. | [PR #315 merged](https://github.com/zxcvbn-ts/zxcvbn/pull/315) |
 | **[faker-js/faker](https://github.com/faker-js/faker)**<br /><sub>contributor</sub> | Turkish surname dataset extended from 198 to 370 entries. | [PR #3839 merged](https://github.com/faker-js/faker/pull/3839) |
 | **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | Wraps zxcvbn-ts with a Turkish threat layer — regional wordlists and crack-time feedback. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [RN Directory](https://reactnative.directory/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
+| **[fabric-defect-detection](https://github.com/mobilteknolojileri/fabric-defect-detection)**<br /><sub>author</sub> | YOLOv8 detector for holes in fabric, exported through ONNX to TFLite and served by FastAPI to a Flutter client. mAP 95.1%. | [repo](https://github.com/mobilteknolojileri/fabric-defect-detection)&nbsp;· [report](https://github.com/mobilteknolojileri/fabric-defect-detection/blob/main/docs/project-report-tr.pdf) |
 | **[xiaomi-bootloader-unlocker](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker)**<br /><sub>author</sub> | NTP-synced automation that lands inside Xiaomi's quota window. | [repo](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker) |
 
 ## Core Stack
