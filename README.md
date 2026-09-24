@@ -72,6 +72,10 @@ Turkish is the running theme across the libraries — most password and dictiona
 </p>
 
 <p align="center">
+  <img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmobilteknolojileri&label=profile%20views&labelColor=%231a1a2e&countColor=%231a1a2e&style=for-the-badge" />
+</p>
+
+<p align="center">
   <sub>Client Supabase projects, pinged daily&nbsp;· <a href="https://healthchecks.io/badge/53d4cd14-b325-4402-9ebb-591752/XjyxyHT5-2.svg"><img alt="keepalive status" src="https://healthchecks.io/badge/53d4cd14-b325-4402-9ebb-591752/XjyxyHT5-2.svg" /></a></sub>
 </p>
 
