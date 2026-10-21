@@ -65,7 +65,7 @@ Turkish is the running theme across the libraries — most password and dictiona
 
 - **Trakya University** — Mobile Technologies, 2023–2025&nbsp;· GPA 3.79 / 4.00
 - **SecHard** — Software engineering intern, 16 weeks&nbsp;· Docker microservices, Node.js APIs on MongoDB, Angular dashboards
-- **Published research** — *Willow Quantum Chip and Post-Quantum Security*, 12th International European Congress on Advanced Studies in Basic Sciences, Tirana, May 2025&nbsp;· [Abstract](https://www.iksadeurope.org/_files/ugd/614b1f_34785a6fae884c798ef81de7fd9dd7a4.pdf)&nbsp;· [Proceedings](https://www.iksadeurope.org/_files/ugd/614b1f_fe0a0192d21b4ec9b5f199e6bdad6c96.pdf)
+- **Conference paper** — *Willow Quantum Chip and Post-Quantum Security*, 12th International European Congress on Advanced Studies in Basic Sciences, Tirana, May 2025&nbsp;· [Abstract](https://www.iksadeurope.org/_files/ugd/614b1f_34785a6fae884c798ef81de7fd9dd7a4.pdf)&nbsp;· [Proceedings](https://www.iksadeurope.org/_files/ugd/614b1f_fe0a0192d21b4ec9b5f199e6bdad6c96.pdf)
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mobilteknolojileri&theme=github-dark-blue&hide_border=true&background=0D1117&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&card_width=495" />
