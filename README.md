@@ -19,23 +19,23 @@
 
 ---
 
-I build products end-to-end — schema, API, app, store listing. React Native and Expo on the client, Node.js and Postgres behind it, Astro when a site has to be genuinely fast.
+I build products end to end: schema, API, app and store listing. React Native and Expo on the client, Node.js and Postgres behind it, Astro when a site has to be genuinely fast.
 
 ## Currently building
 
-**Aeternaty** — a digital legacy platform: letters that reach the people you choose, after a verified death or on a date the author sets. Append-only audit chain, outbox-backed job queue, schema-to-TypeScript parity gate in CI. Encryption is the condition for going public, not a later addition.
+**Aeternaty** is a digital legacy platform: letters that reach the people you choose, after a verified death or on a date the author sets. Append-only audit chain, outbox-backed job queue, schema-to-TypeScript parity gate in CI. Encryption is the condition for going public, not a later addition.
 
 <sub>Private repo&nbsp;· Astro on Cloudflare Workers&nbsp;· PostgreSQL&nbsp;· TypeScript monorepo</sub>
 
 ## Open Source
 
-Turkish is the running theme across the libraries — most password and dictionary tools treat it as an afterthought.
+Turkish is the running theme across the libraries, because most password and dictionary tools treat it as an afterthought.
 
 | Project | What I shipped | Links |
 | :--- | :--- | :--- |
-| **[zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn)**<br /><sub>contributor</sub> | Turkish language pack — 30K frequency words, 10K Wikipedia entries. | [PR #315 merged](https://github.com/zxcvbn-ts/zxcvbn/pull/315) |
+| **[zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn)**<br /><sub>contributor</sub> | Turkish language pack with 30K frequency words and 10K Wikipedia entries. | [PR #315 merged](https://github.com/zxcvbn-ts/zxcvbn/pull/315) |
 | **[faker-js/faker](https://github.com/faker-js/faker)**<br /><sub>contributor</sub> | Turkish surname dataset extended from 198 to 370 entries. | [PR #3839 merged](https://github.com/faker-js/faker/pull/3839) |
-| **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | Wraps zxcvbn-ts with a Turkish threat layer — regional wordlists and crack-time feedback. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [RN Directory](https://reactnative.directory/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
+| **[react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence)**<br /><sub>author</sub> | Wraps zxcvbn-ts with a Turkish threat layer: regional wordlists and crack-time feedback. | [npm](https://www.npmjs.com/package/react-native-password-intelligence)&nbsp;· [RN Directory](https://reactnative.directory/package/react-native-password-intelligence)&nbsp;· [repo](https://github.com/mobilteknolojileri/react-native-password-intelligence) |
 | **[fabric-defect-detection](https://github.com/mobilteknolojileri/fabric-defect-detection)**<br /><sub>author</sub> | YOLOv8 detector for holes in fabric, exported through ONNX to TFLite and served by FastAPI to a Flutter client. mAP 95.1%. | [repo](https://github.com/mobilteknolojileri/fabric-defect-detection)&nbsp;· [report](https://github.com/mobilteknolojileri/fabric-defect-detection/blob/main/docs/project-report-tr.pdf) |
 | **[xiaomi-bootloader-unlocker](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker)**<br /><sub>author</sub> | NTP-synced automation that lands inside Xiaomi's quota window. | [repo](https://github.com/mobilteknolojileri/xiaomi-bootloader-unlocker) |
 
@@ -56,16 +56,16 @@ Turkish is the running theme across the libraries — most password and dictiona
 | Product | What it is | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **İngilizceciyiz** <sub>client</sub> | Education platform modernization: 23K+ downloads, 7,568 teacher accounts, 36,460 documents generated. | React Native&nbsp;· Expo 55&nbsp;· Supabase | [App Store](https://apps.apple.com/tr/app/ingilizceciyiz/id6459478322)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.ingilizceciyiz.ingilizceciyiz&hl=tr)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/ingilizceciyiz.md) |
-| **Get Yo** <sub>client</sub> | Frozen yogurt shop app — daily flavor board, nutrition and allergen data, favorite voting. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [App Store](https://apps.apple.com/us/app/get-yo/id6753984684)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.getyocafe.app&hl=tr)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/getyo.md) |
+| **Get Yo** <sub>client</sub> | Frozen yogurt shop app with a daily flavor board, nutrition and allergen data, and favorite voting. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [App Store](https://apps.apple.com/us/app/get-yo/id6753984684)&nbsp;· [Google Play](https://play.google.com/store/apps/details?id=com.getyocafe.app&hl=tr)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/getyo.md) |
 | **Kafadar** | Friendship quiz app with shareable deep links and score comparison. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.kafadar)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/kafadar.md) |
 | **QuSafe** | AES-256-GCM encrypted vault for passwords and notes. | React Native&nbsp;· Expo 54&nbsp;· Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.qusafe)&nbsp;· [Case study](https://github.com/mobilteknolojileri/case-studies/blob/main/qusafe.md) |
-| **Legends of Aestera** | 2D platformer — multi-character system, boss fights. | Unity&nbsp;· C# | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.aestera) |
+| **Legends of Aestera** | 2D platformer with a multi-character system and boss fights. | Unity&nbsp;· C# | [Google Play](https://play.google.com/store/apps/details?id=com.schwerttr.aestera) |
 
 ## Background
 
-- **Trakya University** — Mobile Technologies, 2023–2025&nbsp;· GPA 3.79 / 4.00
-- **SecHard** — Software engineering intern, 16 weeks&nbsp;· Docker microservices, Node.js APIs on MongoDB, Angular dashboards
-- **Conference paper** — *Willow Quantum Chip and Post-Quantum Security*, 12th International European Congress on Advanced Studies in Basic Sciences, Tirana, May 2025&nbsp;· [Abstract](https://www.iksadeurope.org/_files/ugd/614b1f_34785a6fae884c798ef81de7fd9dd7a4.pdf)&nbsp;· [Proceedings](https://www.iksadeurope.org/_files/ugd/614b1f_fe0a0192d21b4ec9b5f199e6bdad6c96.pdf)
+- **Trakya University**&nbsp;· Mobile Technologies, 2023-2025&nbsp;· GPA 3.79 / 4.00
+- **SecHard**&nbsp;· Software engineering intern, 16 weeks&nbsp;· Docker microservices, Node.js APIs on MongoDB, Angular dashboards
+- **Conference paper**&nbsp;· *Willow Quantum Chip and Post-Quantum Security*, 12th International European Congress on Advanced Studies in Basic Sciences, Tirana, May 2025&nbsp;· [Abstract](https://www.iksadeurope.org/_files/ugd/614b1f_34785a6fae884c798ef81de7fd9dd7a4.pdf)&nbsp;· [Proceedings](https://www.iksadeurope.org/_files/ugd/614b1f_fe0a0192d21b4ec9b5f199e6bdad6c96.pdf)
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mobilteknolojileri&theme=github-dark-blue&hide_border=true&background=0D1117&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&card_width=495" />
@@ -80,5 +80,5 @@ Turkish is the running theme across the libraries — most password and dictiona
 </p>
 
 <p align="center">
-  <sub>Open to freelance work and collaboration — <a href="mailto:mobilteknolojileri@gmail.com">mobilteknolojileri@gmail.com</a></sub>
+  <sub>Open to freelance work and collaboration&nbsp;· <a href="mailto:mobilteknolojileri@gmail.com">mobilteknolojileri@gmail.com</a></sub>
 </p>
