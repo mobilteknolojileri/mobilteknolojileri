@@ -1,4 +1,4 @@
-<h1 align="center">Mehmet — goldsword</h1>
+<h1 align="center">Mehmet · Mobil Teknolojileri</h1>
 
 <p align="center">
   <strong>Full-Stack &amp; Mobile Developer</strong><br />
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://goldsword.dev"><img alt="Portfolio" src="https://img.shields.io/badge/goldsword.dev-portfolio-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=astro&logoColor=BC52EE" /></a>&nbsp;
+  <a href="https://mobilteknolojileri.com"><img alt="Portfolio" src="https://img.shields.io/badge/mobilteknolojileri.com-portfolio-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=astro&logoColor=BC52EE" /></a>&nbsp;
   <a href="https://github.com/mobilteknolojileri/case-studies"><img alt="Case studies" src="https://img.shields.io/badge/case_studies-read-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=markdown&logoColor=e6edf3" /></a>&nbsp;
   <a href="https://www.npmjs.com/package/react-native-password-intelligence"><img alt="npm" src="https://img.shields.io/npm/v/react-native-password-intelligence?style=for-the-badge&label=npm&labelColor=1a1a2e&color=1a1a2e&logo=npm&logoColor=CB3837" /></a>&nbsp;
   <a href="https://bionluk.com/goldsword"><img alt="Bionluk rating" src="https://img.shields.io/badge/Bionluk-5.0_%E2%98%85_%C2%B7_23_reviews-1a1a2e?style=for-the-badge&labelColor=1a1a2e&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEUAAADxN2DyLGPwOFvwOFz9XmD9Bgb%2BQFr%2FAP%2BqVVX7QFf%2F%2FwC%2FP3%2F%2F%2F%2F9%2FAH%2FxOVwAAAAAAAAAAAAAAAAAAADH267PAAAAEHRSTlMA9hhjngcB%2BQEDQwEEAQL8qutlLgAAAVVJREFUeNplkweSAjAIRamJbsv9b%2BuHkOLKOA4mT%2FiUEMFkGt3WqPmXS3piI8zCX%2FYg5TF69wQG%2FMFGvu8dh73j06efpm%2BA9TxMQD%2BB1goYCXO6QnIUCifQB9gCWC6NK0I3yBWeGv0CBHmhcFiEnRpRhLy1QdRUH0TP0sjq%2FnT3itJ8gZ4dySJW9H0t0u4iEBNBSyp%2BRfPhNymAB8OQih7NZ1T4IGYRY8zvmauy9swr478JWXnd2qaPIbCtM%2FYNHAwdWYOI9i7aoHuqAaBqO8JPAsy%2FkKMrwlZmtCfRmjxP0%2F0TIL96KmdHcBgElB9ADjA1BiKEDd6bcy1RAkAEaStb1C5VO%2Fo0B8AxIF1V%2BilCEoBhdjqOxmvRCwihM0Dupn4CNdOq51p0XdelEAnuRf%2FDwzx%2FDy3xaqsItlwp15NknoTGjJmvteX%2BWRj2MVcWT0XThL7pBTpKGPT5hLa0AAAAAElFTkSuQmCC" /></a>&nbsp;
